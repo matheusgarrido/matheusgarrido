@@ -22,11 +22,11 @@
   <a href="https://github.com/matheusgarrido?tab=repositories"
     ><img
       src="https://github-readme-stats.vercel.app/api?username=matheusgarrido&theme=dark&show_icons=true&hide=contribs,issues"
-      height="140px"
+      height="150px"
   /></a>
   <a href="https://github.com/matheusgarrido?tab=repositories"
     ><img
-      height="140px"
+      height="150px"
       src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=matheusgarrido&layout=compact&theme=dark"
   /></a>
 </main>
