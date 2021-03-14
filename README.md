@@ -42,7 +42,7 @@
       href="https://github.com/matheusgarrido?tab=repositories&q=&type=&language=php"
       title="PHP"
       ><img
-        src="https://lh3.googleusercontent.com/proxy/LAU5-1m3P_jhxOauikV0ZOawq16uWBLIT2eC3GPfcwI_jGXAU5RObmOYmv0ZKjRlNDwvVvd1YxfAqMbwgBtsDqlW7QJ7eauXEpTZN-unyefgZ4LMj-U"
+        src="https://lh3.googleusercontent.com/proxy/Z4iuI1rR-TtaeliF7fA7kF5yDnaQo96lJ9vHEq2iRJHqLg3GN6p_Kwc4ZfomCymRNfEpeBCVEPm4ZGjt151eTWIk4BmdNDUaZ-Wss-qnjfmBo1gXq_k"
         height="50px"
         alt="PHP"
     /></a>
