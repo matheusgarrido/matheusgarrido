@@ -1,13 +1,17 @@
 <header>
-    <h1 align="center"> &lt; 𝓗𝓮𝓵𝓵𝓸 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻𝓼 &gt; </h1>
-    <p align="center">
-      <a href="https://github.com/matheusgarrido">
-        <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"/>
-      </a>
-      <a href="https://www.linkedin.com/in/matheusgarrido10">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-      </a>
-    </p>
+  <h1 align="center">&lt; 𝓗𝓮𝓵𝓵𝓸 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻𝓼 &gt;</h1>
+  <p align="center">
+    <a href="https://github.com/matheusgarrido">
+      <img
+        src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"
+      />
+    </a>
+    <a href="https://www.linkedin.com/in/matheusgarrido10">
+      <img
+        src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
+      />
+    </a>
+  </p>
 </header>
 <main>
   <h3>My name is Matheus Garrido!</h3>
@@ -19,8 +23,7 @@
   <a href="https://github.com/matheusgarrido?tab=repositories"
     ><img
       src="https://github-readme-stats.vercel.app/api?username=matheusgarrido&theme=dark&show_icons=true&hide=contribs,issues"
-      height="150px"
-  />
+      height="150px" />
     <img
       height="150px"
       src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=matheusgarrido&layout=compact&theme=dark"
@@ -92,6 +95,13 @@
         alt="CSS3"
       />
     </a>
+    <a href="https://github.com/matheusgarrido?tab=repositories" title="NodeJS">
+      <img
+        src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"
+        height="50px"
+        alt="NodeJS"
+      />
+    </a>
     <a
       href="https://github.com/matheusgarrido?tab=repositories"
       title="ReactJS"
@@ -102,11 +112,21 @@
         alt="ReactJS"
       />
     </a>
-    <a href="https://github.com/matheusgarrido?tab=repositories" title="NodeJS">
+    <a href="https://github.com/matheusgarrido?tab=repositories" title="jQuery">
       <img
-        src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"
+        src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png"
         height="50px"
-        alt="NodeJS"
+        alt="jQuery"
+      />
+    </a>
+    <a
+      href="https://github.com/matheusgarrido?tab=repositories"
+      title="Bootstrap"
+    >
+      <img
+        src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png"
+        height="50px"
+        alt="Bootstrap"
       />
     </a>
     <a
@@ -126,8 +146,82 @@
         alt="SQL"
       />
     </a>
+    <a href="https://github.com/matheusgarrido?tab=repositories" title="Python">
+      <img
+        src="https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png"
+        height="50px"
+        alt="Python"
+      />
+    </a>
+    <a href="https://github.com/matheusgarrido?tab=repositories" title="Java">
+      <img
+        src="https://logospng.org/download/java/logo-java-256.png"
+        height="50px"
+        alt="Java"
+      />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/matheusgarrido?tab=repositories" title="Git">
+      <img
+        src="https://logos-download.com/wp-content/uploads/2021/01/Git_Logo.svg"
+        height="50px"
+        alt="Git"
+      />
+    </a>
+    <a href="https://github.com/matheusgarrido?tab=repositories" title="GitHub">
+      <img
+        src="https://camo.githubusercontent.com/f116befea219e410bfd127754d966c015c2562f776874928efae907452155a1d/68747470733a2f2f7777772e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6f637469636f6e732f313032342f6d61726b2d6769746875622d3235362e706e67"
+        height="50px"
+        alt="GitHub"
+      />
+    </a>
+    <a
+      href="https://github.com/matheusgarrido?tab=repositories"
+      title="Insomnia"
+    >
+      <img
+        src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/insomnia-icon.png"
+        height="50px"
+        alt="Insomnia"
+      />
+    </a>
+    <a href="https://github.com/matheusgarrido?tab=repositories" title="Astah">
+      <img
+        src="https://img.informer.com/icons_mac/png/128/324/324863.png"
+        height="50px"
+        alt="Astah"
+      />
+    </a>
+    <a href="https://github.com/matheusgarrido?tab=repositories" title="Trello">
+      <img
+        src="https://cdn.iconscout.com/icon/free/png-256/trello-226534.png"
+        height="50px"
+        alt="Trello"
+      />
+    </a>
+    <a
+      href="https://github.com/matheusgarrido?tab=repositories"
+      title="Adobe Photoshop"
+    >
+      <img
+        src="https://cdn.iconscout.com/icon/free/png-256/photoshop-8-226474.png"
+        height="50px"
+        alt="Adobe Photoshop"
+      />
+    </a>
+    <a
+      href="https://github.com/matheusgarrido?tab=repositories"
+      title="Fritzing"
+    >
+      <img
+        src="https://images.opencollective.com/fritzing/459f606/logo/256.png"
+        height="50px"
+        alt="Fritzing"
+      />
+    </a>
   </p>
 </main>
 <footer>
-  <p align="center">⏰ Last update: 03/13/2021 ⏰</p>
+  <p align="center">⏰ Last update: 03/14/2021 ⏰</p>
 </footer>
