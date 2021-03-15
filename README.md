@@ -19,16 +19,8 @@
     <li>🌎 I'm from Rio de Janeiro / Brazil</li>
     <li>🎮 I love video games, movies, music, technology</li>
   </ul>
-  <h3>GitHub Stats</h3>
-  <a href="https://github.com/matheusgarrido?tab=repositories"
-    ><img
-      src="https://github-readme-stats.vercel.app/api?username=matheusgarrido&theme=dark&show_icons=true&hide=contribs,issues"
-      height="150px" />
-    <img
-      height="150px"
-      src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=matheusgarrido&layout=compact&theme=dark"
-  /></a>
-  <h3>Main technologies in repositories</h3>
+  <h2>Repositories</h2>
+  <h3>Filter by main language</h3>
   <p align="center">
     <a
       href="https://github.com/matheusgarrido?tab=repositories&q=&type=&language=javascript"
@@ -42,7 +34,7 @@
       href="https://github.com/matheusgarrido?tab=repositories&q=&type=&language=php"
       title="PHP"
       ><img
-        src="https://lh3.googleusercontent.com/proxy/Z4iuI1rR-TtaeliF7fA7kF5yDnaQo96lJ9vHEq2iRJHqLg3GN6p_Kwc4ZfomCymRNfEpeBCVEPm4ZGjt151eTWIk4BmdNDUaZ-Wss-qnjfmBo1gXq_k"
+        src="https://cdn.iconscout.com/icon/free/png-256/php-2038871-1720084.png"
         height="50px"
         alt="PHP"
     /></a>
@@ -79,6 +71,16 @@
         alt="SASS/SCSS"
     /></a>
   </p>
+  <h3>GitHub Stats</h3>
+  <a href="https://github.com/matheusgarrido?tab=repositories"
+    ><img
+      src="https://github-readme-stats.vercel.app/api?username=matheusgarrido&theme=dark&show_icons=true&hide=contribs,issues"
+      height="150px" />
+    <img
+      height="150px"
+      src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=matheusgarrido&layout=compact&theme=dark"
+  /></a>
+  <h2>About Me</h2>
   <h3>Technical knowledge</h3>
   <p align="center">
     <a href="https://github.com/matheusgarrido?tab=repositories" title="HTML5">
@@ -223,5 +225,5 @@
   </p>
 </main>
 <footer>
-  <p align="center">⏰ Last update: 03/14/2021 ⏰</p>
+  <p align="center">⏰ Last update: 03/15/2021 ⏰</p>
 </footer>
