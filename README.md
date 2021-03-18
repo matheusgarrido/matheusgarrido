@@ -97,13 +97,6 @@
         alt="CSS3"
       />
     </a>
-    <a href="https://github.com/matheusgarrido?tab=repositories" title="NodeJS">
-      <img
-        src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"
-        height="50px"
-        alt="NodeJS"
-      />
-    </a>
     <a
       href="https://github.com/matheusgarrido?tab=repositories"
       title="ReactJS"
@@ -119,6 +112,20 @@
         src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png"
         height="50px"
         alt="jQuery"
+      />
+    </a>
+    <a href="https://github.com/matheusgarrido?tab=repositories" title="NodeJS">
+      <img
+        src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"
+        height="50px"
+        alt="NodeJS"
+      />
+    </a>
+    <a href="https://github.com/matheusgarrido?tab=repositories" title="Express">
+      <img
+        src="https://brandonrenwick.me/static/media/express.9e4efda9.ico"
+        height="50px"
+        alt="Express"
       />
     </a>
     <a
@@ -225,5 +232,5 @@
   </p>
 </main>
 <footer>
-  <p align="center">⏰ Last update: 03/15/2021 ⏰</p>
+  <p align="center">⏰ Last update: 03/18/2021 ⏰</p>
 </footer>
