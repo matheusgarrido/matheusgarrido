@@ -31,6 +31,14 @@
         alt="JavaScript"
     /></a>
     <a
+      href="https://github.com/matheusgarrido?tab=repositories&q=&type=&language=typescript"
+      title="TypeScript"
+      ><img
+        src="https://sdtimes.com/wp-content/uploads/2020/06/ts-logo-256.png"
+        height="50px"
+        alt="TypeScript"
+    /></a>
+    <a
       href="https://github.com/matheusgarrido?tab=repositories&q=&type=&language=php"
       title="PHP"
       ><img
@@ -61,14 +69,6 @@
         src="https://cpp4arduino.com/assets/images/structured_data_logo.png"
         height="50px"
         alt="C++ for Arduino"
-    /></a>
-    <a
-      href="https://github.com/matheusgarrido?tab=repositories&q=&type=&language=scss"
-      title="SASS/SCSS"
-      ><img
-        src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png"
-        height="50px"
-        alt="SASS/SCSS"
     /></a>
   </p>
   <h3>GitHub Stats</h3>
@@ -128,6 +128,14 @@
         alt="Express"
       />
     </a>
+    <a
+      href="https://github.com/matheusgarrido?tab=repositories&q=&type=&language=scss"
+      title="SASS/SCSS"
+      ><img
+        src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png"
+        height="50px"
+        alt="SASS/SCSS"
+    /></a>
     <a
       href="https://github.com/matheusgarrido?tab=repositories"
       title="Bootstrap"
