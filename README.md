@@ -90,9 +90,29 @@
   
   <h3>Some Repositories</h3>
   <details>
-    <summary>Bootcamp Front-end's projects</summary>
+    <summary>Bootcamp Front-end - IGTI</summary>
     ➗ <a href="https://github.com/matheusgarrido/calculator-challenge-igti">Calculator</a> - React / JS<br/>
     🤡 <a href="https://github.com/matheusgarrido/get-clown">GetClown</a> - React / TS<br/>
+  </details>
+  <details>
+    <summary>Arduino</summary>
+    🎮 <a href="https://github.com/matheusgarrido/arduino-genius-game">Genius Game</a><br/>
+    🎵 <a href="https://github.com/matheusgarrido/arduino-do-re-mi-fa">Do Re Mi Fa</a><br/>
+  </details>
+  <details>
+    <summary>Discord</summary>
+    📝 <a href="https://github.com/matheusgarrido/shortbot">ShortBot</a> - NodeJS<br/>
+    🎮 <a href="https://github.com/matheusgarrido/discordGameBot">GameBot</a> - NodeJS<br/>
+  </details>
+  <details>
+    <summary>Random</summary>
+    🎮 <a href="https://github.com/matheusgarrido/Brawlhalla-mods-manager">Brawlhalla Mods Manager</a> - C#<br/>
+  </details>
+  <details>
+    <summary>College</summary>
+    👕 <a href="https://github.com/matheusgarrido/GeekStore">GeekStore</a> - PHP<br/>
+    🏠 <a href="https://github.com/matheusgarrido/star-hotel">Star Hotel</a> - C<br/>
+    🧱 <a href="https://github.com/matheusgarrido/Estrutura-de-dados-em-C">Data Structure</a> - C<br/>
   </details>
   
   <h2>About Me</h2>
