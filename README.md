@@ -24,6 +24,7 @@
     <li>🌎 I'm from Rio de Janeiro / Brazil</li>
     <li>🎮 I love video games, movies, music, technology</li>
   </ul>
+  
   <h2>Repositories</h2>
   <h3>Filter by main language</h3>
   <p align="center">
@@ -76,6 +77,7 @@
         alt="C++ for Arduino"
     /></a>
   </p>
+  
   <h3>GitHub Stats</h3>
   <a href="https://github.com/matheusgarrido?tab=repositories"
     ><img
@@ -85,6 +87,14 @@
       height="150px"
       src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=matheusgarrido&layout=compact&theme=dark"
   /></a>
+  
+  <h3>Some Repositories</h3>
+  <details>
+    <summary>Bootcamp Front-end's projects</summary>
+    ➗ <a href="https://github.com/matheusgarrido/calculator-challenge-igti">Calculator</a> - React / JS<br/>
+    🤡 <a href="https://github.com/matheusgarrido/get-clown">GetClown</a> - React / TS<br/>
+  </details>
+  
   <h2>About Me</h2>
   <h3>Technical knowledge</h3>
   <p align="center">
@@ -192,8 +202,7 @@
       />
     </a>
     <a href="https://github.com/matheusgarrido?tab=repositories" title="GitHub">
-      <img
-        src="https://camo.githubusercontent.com/f116befea219e410bfd127754d966c015c2562f776874928efae907452155a1d/68747470733a2f2f7777772e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6f637469636f6e732f313032342f6d61726b2d6769746875622d3235362e706e67"
+      <img src="https://camo.githubusercontent.com/f116befea219e410bfd127754d966c015c2562f776874928efae907452155a1d/68747470733a2f2f7777772e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6f637469636f6e732f313032342f6d61726b2d6769746875622d3235362e706e67"
         height="50px"
         alt="GitHub"
       />
