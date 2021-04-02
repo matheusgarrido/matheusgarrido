@@ -11,6 +11,11 @@
         src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
       />
     </a>
+    <a href="mailto:matheusgarrido10@hotmail.com">
+      <img
+        src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"
+      />
+    </a>
   </p>
 </header>
 <main>
@@ -240,5 +245,5 @@
   </p>
 </main>
 <footer>
-  <p align="center">⏰ Last update: 03/18/2021 ⏰</p>
+  <p align="center">⏰ Last update: 04/02/2021 ⏰</p>
 </footer>
