@@ -88,11 +88,13 @@
       src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=matheusgarrido&layout=compact&theme=dark"
   /></a>
   
+  
   <h3>Some Repositories</h3>
   <details>
     <summary>Bootcamp Front-end - IGTI</summary>
     ➗ <a href="https://github.com/matheusgarrido/calculator-challenge-igti">Calculator</a> - React / JS<br/>
     🤡 <a href="https://github.com/matheusgarrido/get-clown">GetClown</a> - React / TS<br/>
+    ❌ <a href="https://github.com/matheusgarrido/tictactoe">Tic Tac Toe</a> - Angular / SCSS<br/>
   </details>
   <details>
     <summary>Arduino</summary>
