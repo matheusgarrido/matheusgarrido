@@ -3,8 +3,6 @@
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusgarrido10@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521969958783)
 
----
-
 ### Sobre Mim
 
 Olá! Sou um desenvolvedor Full-Stack Pleno com mais de 3 anos de experiência no mercado. Sou especializado em criar soluções inovadoras e orientadas a resultados, e estou sempre em busca de novas tecnologias e práticas para expandir meu conhecimento. Minha experiência se concentra em tecnologias como **React**, **Node.js**, **JavaScript** e **TypeScript**.
@@ -15,7 +13,7 @@ Sou um profissional colaborativo e com pensamento crítico.
 
 ---
 
-### Principais Competências
+### Competências
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,9 +33,7 @@ Sou um profissional colaborativo e com pensamento crítico.
 ![Cypress](https://img.shields.io/badge/Cypress-69D9B3?style=for-the-badge&logo=cypress&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-### Informações Complementares
+#### Informações Complementares
 
 * **Front End:** Angular, Vue.js, CSS3, SASS/SCSS, Bootstrap, Styled-Components, Tailwind CSS, Material-UI, jQuery, Babel, Webpack
 * **Back End:** Sequelize, PM2, RabbitMQ, BullMQ, Nodemon, Cors, Axios, C#, .NET, PHP, Java, Python
